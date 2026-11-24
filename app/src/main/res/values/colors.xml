@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Archivo principal: Paleta de colores inspirada en Ratchet & Clank -->
+<resources>
+    <!-- Naranja Lombax y acentos galácticos -->
+    <color name="lombax_orange">#FF6D00</color>
+    <color name="lombax_orange_light">#FF9E40</color>
+    <color name="colorAccent">@color/galactic_cyan</color>
+    <color name="lombax_orange_dark">#C43E00</color>
+    <color name="galactic_cyan">#00B8D4</color>
+    <color name="clank_gold">#FFC400</color>
+    <color name="raritanium_teal">#00897B</color>
+
+    <!-- Superficies tipo titanio y espacio profundo -->
+    <color name="space_dark_bg">#0F141C</color>
+    <color name="titanium_surface">#18202C</color>
+    <color name="titanium_card">#222D3D</color>
+    <color name="hull_light_bg">#F4F7FB</color>
+    <color name="hull_white">#FFFFFF</color>
+    <color name="ink_dark">#101622</color>
+    <color name="ink_light">#F2F6FC</color>
+    <color name="alert_crimson">#D32F2F</color>
+    <color name="colorGrey">#90A4AE</color>
+</resources>

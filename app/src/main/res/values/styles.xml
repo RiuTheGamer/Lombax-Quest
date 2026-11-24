@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.TodoApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/lombax_orange_dark</item>
+    </style>
+
+    <style name="AppTheme" parent="Base.Theme.TodoApp" />
+    <style name="Theme.TodoApp" parent="Base.Theme.TodoApp" />
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Archivo principal: Cadenas de texto, estado vacío y mensajes en pantalla -->
+<resources>
+    <string name="app_name">Lombax Quest</string>
+    <string name="empty_tasks_title">Sin misiones pendientes</string>
+    <string name="empty_tasks_subtitle">No hay tareas en la memoria local. Registra una nueva para comenzar.</string>
+    <string name="add_task_button">Nueva tarea</string>
+    <string name="task_saved_message">Tarea guardada en la memoria local</string>
+    <string name="task_completed_message">Tarea marcada como completada</string>
+    <string name="task_deleted_message">Tarea eliminada de la memoria local</string>
+    <string name="add_task">Nueva misión</string>
+    <string name="edit_task">Editar misión</string>
+    <string name="cd_save_task">Guardar misión</string>
+    <string name="title_hint">Título de la misión</string>
+    <string name="description_hint">Detalles o notas en memoria local</string>
+    <string name="empty_task_message">Completa el título y la descripción antes de guardar en la memoria local.</string>
+    <string name="statistics_no_tasks">No hay misiones registradas en la memoria local para calcular estadísticas.</string>
+    <string name="statistics_active_tasks">Misiones activas: %.1f%%</string>
+    <string name="statistics_completed_tasks">Misiones completadas: %.1f%%</string>
+    <string name="loading_tasks_error">Error al cargar las misiones desde la memoria local.</string>
+    <string name="no_data">No hay datos de la misión en la memoria local.</string>
+    <string name="loading_task_error">Error al cargar los detalles de la misión desde la memoria local.</string>
+    <string name="task_marked_complete">Misión marcada como completada</string>
+    <string name="task_marked_active">Misión reactivada</string>
+    <string name="task_not_found">Misión no encontrada</string>
+    <string name="no_tasks_image_content_description">Ícono de estado vacío de misiones</string>
+    <string name="label_all">Todas las misiones</string>
+    <string name="no_tasks_all">No tienes misiones registradas.</string>
+    <string name="completed_tasks_cleared">Misiones completadas eliminadas</string>
+    <string name="successfully_saved_task_message">Misión guardada en la memoria local</string>
+    <string name="successfully_added_task_message">Nueva misión añadida a la memoria local</string>
+    <string name="successfully_deleted_task_message">Misión eliminada de la memoria local</string>
+    <string name="label_active">Misiones activas</string>
+    <string name="label_completed">Misiones completadas</string>
+    <string name="no_tasks_active">No tienes misiones activas.</string>
+    <string name="no_tasks_completed">No tienes misiones completadas.</string>
+    <string name="list_title">Misiones</string>
+    <string name="statistics_title">Estadísticas</string>
+    <string name="tasks_header_image_content_description">Emblema del panel de misiones</string>
+    <string name="navigation_view_header_title">Lombax Quest - Ratchet &amp; Clank</string>
+    <string name="open_drawer">Abrir menú de navegación</string>
+    <string name="menu_filter">Filtrar misiones</string>
+    <string name="nav_all">Todas</string>
+    <string name="nav_active">Activas</string>
+    <string name="nav_completed">Completadas</string>
+    <string name="menu_more">Más opciones</string>
+    <string name="menu_clear">Limpiar completadas</string>
+    <string name="refresh">Actualizar</string>
+    <string name="task_details">Detalles de misión</string>
+    <string name="menu_back">Regresar</string>
+    <string name="menu_delete_task">Eliminar misión</string>
+    <string name="search_tasks_placeholder">Buscar misión por título o descripción...</string>
+    <string name="undo_action">Deshacer</string>
+</resources>
